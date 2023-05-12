@@ -9,3 +9,4 @@ Guidelines for launching the project in Unity
 
 Note: 
 It is recommended that you use Unity editor version 2021.3.14f1
+Before starting the application for use with the MELD machine, you should launch the ServerConsole.exe found on the MELD HMI in C:\MELD\History\ServerConsole.exe
